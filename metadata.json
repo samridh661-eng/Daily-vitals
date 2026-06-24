@@ -1,0 +1,6 @@
+{
+  "name": "DailyVitals",
+  "description": "A clean, minimal health tracker for steps, water, and sleep. Created by samridh singhal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
